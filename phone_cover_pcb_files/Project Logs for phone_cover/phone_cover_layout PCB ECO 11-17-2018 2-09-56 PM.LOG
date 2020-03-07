@@ -1,0 +1,32 @@
+Added Component: Designator=U2(QFN-64)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Silicon Labs"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "EFM32G232F128-QFP64"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "TQFP-64 Silicon Labs"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/EFM32G232F128-QFP64/Silicon%20Labs/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=SDA Pin=U2-1
+Added Pin To Net: NetName=SCL Pin=U2-2
+Added Pin To Net: NetName=FD Pin=U2-3
+Added Pin To Net: NetName=IOVDD_0 Pin=U2-8
+Added Pin To Net: NetName=LFXTAL_P Pin=U2-15
+Added Pin To Net: NetName=LFXTAL_N Pin=U2-16
+Added Pin To Net: NetName=RESETn Pin=U2-20
+Added Pin To Net: NetName=AVDD_0 Pin=U2-23
+Added Pin To Net: NetName=HFXTAL_P Pin=U2-24
+Added Pin To Net: NetName=HFXTAL_N Pin=U2-25
+Added Pin To Net: NetName=IOVDD_0 Pin=U2-26
+Added Pin To Net: NetName=AVDD_0 Pin=U2-27
+Added Pin To Net: NetName=Touch1 Pin=U2-33
+Added Pin To Net: NetName=Touch2 Pin=U2-34
+Added Pin To Net: NetName=Touch3 Pin=U2-35
+Added Pin To Net: NetName=Touch4 Pin=U2-36
+Added Pin To Net: NetName=IOVDD_0 Pin=U2-39
+Added Pin To Net: NetName=NetCDEC_2 Pin=U2-40
+Added Pin To Net: NetName=SWCLK Pin=U2-49
+Added Pin To Net: NetName=SWDIO Pin=U2-50
+Added Pin To Net: NetName=SWO Pin=U2-51
+Added Pin To Net: NetName=IOVDD_0 Pin=U2-55
+Added Member To Class: ClassName=MCU Member=Component U2 EFM32G232F128-QFP64

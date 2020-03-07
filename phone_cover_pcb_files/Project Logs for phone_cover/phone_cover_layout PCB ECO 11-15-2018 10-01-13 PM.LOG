@@ -1,0 +1,4 @@
+Added Pin To Net: NetName=IOVDD_0 Pin=U2-8
+Added Room: Name=MCU
+Added Room: Name=Peripherals
+Added Room: Name=Power

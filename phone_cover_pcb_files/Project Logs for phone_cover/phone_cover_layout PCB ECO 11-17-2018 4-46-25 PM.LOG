@@ -1,0 +1,2 @@
+Change Component Footprint: Designator=GPIO Old Footprint=HDR1X8 New Footprint=HDR1X4
+Change Component Comment : Designator=GPIO Old Comment=Header 8 New Comment=Header 4

@@ -1,0 +1,4 @@
+Change Component Footprint: Designator=U2 Old Footprint=QFP50P1200X1200X120-64N New Footprint=QFN-64
+Added Room: Name=MCU
+Added Room: Name=Peripherals
+Added Room: Name=Power

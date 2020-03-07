@@ -1,0 +1,21 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: phone_cover_layout.PcbDoc   11/18/2018  10:52:31 PM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : phone_cover_layout-RoundHoles.TXT
+ASCII SlotHoles File : phone_cover_layout-SlotHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      12mil (0.3mm)                                             Round             4         PTH        0.12inch (3.00mm)
+T2      12mil (0.305mm)                                           Round             44        PTH        11.19inch (284.12mm)
+T3      26mil (0.65mm)                                            Slot              2         PTH        0.37inch (9.30mm)
+T4      30mil (0.762mm)                                           Round             9         PTH        2.13inch (54.11mm)
+T5      35mil (0.9mm)                                             Round             59        PTH        11.67inch (296.35mm)
+T6      39mil (1mm)                                               Round             2         PTH        0.08inch (2.00mm)
+T7      60mil (1.524mm)                                           Round             2         PTH        0.33inch (8.35mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              122
+
+Total Processing Time (hh:mm:ss) : 00:00:00

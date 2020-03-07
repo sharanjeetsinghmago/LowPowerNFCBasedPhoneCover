@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=VBAT Pin=U3-4
+Added Pin To Net: NetName=VIN_USB Pin=U3-1
+Added Pin To Net: NetName=VBAT_OUT Pin=U3-4
+Added Pin To Net: NetName=VBAT_OUT Pin=U8-1
+Added Pin To Net: NetName=VBAT_OUT Pin=U9-2
+Added Net: Name=VBAT_OUT

@@ -1,0 +1,70 @@
+Added Component: Designator=D1(LED1)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Component URL"; Value = "https://industrial.panasonic.com/content/data/SC/ds/ds4/LNJ926W8CRA_E.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component URL Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key Part Number"; Value = "P13484CT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Panasonic Electronic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "LNJ926W8CRA"; VariantName = "[No Variations]"
+Added Component: Designator=D2(LED1)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Component URL"; Value = "https://industrial.panasonic.com/content/data/SC/ds/ds4/LNJ926W8CRA_E.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component URL Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key Part Number"; Value = "P13484CT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Panasonic Electronic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "LNJ926W8CRA"; VariantName = "[No Variations]"
+Added Component: Designator=HF_XTAL1(HFXTAL)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Component URL"; Value = "https://media.digikey.com/pdf/Data%20Sheets/Optrex%20PDFs/CX2016DB_Series_Spec.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component URL Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key Part Number"; Value = "1253-1120-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "AVX Corp/Kyocera Corp"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "CX2016DB40000D0FLJCC"; VariantName = "[No Variations]"
+Added Component: Designator=U7(JST)
+Add component. Clean all parameters for all variants
+Added Component: Designator=U8(JST)
+Add component. Clean all parameters for all variants
+Added Component: Designator=U9(JST)
+Add component. Clean all parameters for all variants
+Added Component: Designator=X1(USB)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://cdn.amphenol-icc.com/media/wysiwyg/files/documentation/datasheet/inputoutput/io_usb_micro.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Amphenol FCI"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ManufacturerPartNo"; Value = "10103594-0001LF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SupplierLink1URL"; Value = "https://www.digikey.com/product-detail/en/amphenol-fci/10103594-0001LF/609-4050-1-ND/2350357"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SupplierPartNo"; Value = "609-4050-1-ND"; VariantName = "[No Variations]"
+Added Component: Designator=Y1(LFXTAL)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Component URL"; Value = "http://www.abracon.com/Resonators/ABS07.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component URL Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key Part Number"; Value = "535-9543-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Abracon LLC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "ABS07-32.768KHZ-7-T"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetD1_1 Pin=D1-1
+Added Pin To Net: NetName=GND Pin=D1-2
+Added Pin To Net: NetName=NetD2_1 Pin=D2-1
+Added Pin To Net: NetName=GND Pin=D2-2
+Added Pin To Net: NetName=HFXTAL_P Pin=HF_XTAL1-1
+Added Pin To Net: NetName=GND Pin=HF_XTAL1-2
+Added Pin To Net: NetName=HFXTAL_N Pin=HF_XTAL1-3
+Added Pin To Net: NetName=GND Pin=HF_XTAL1-4
+Added Pin To Net: NetName=VOUT Pin=U7-1
+Added Pin To Net: NetName=IOVDD_0 Pin=U7-2
+Added Pin To Net: NetName=NetU8_1 Pin=U8-1
+Added Pin To Net: NetName=GND Pin=U8-2
+Added Pin To Net: NetName=VBAT Pin=U9-1
+Added Pin To Net: NetName=NetU8_1 Pin=U9-2
+Added Pin To Net: NetName=VIN_USB Pin=X1-1
+Added Pin To Net: NetName=GND Pin=X1-5
+Added Pin To Net: NetName=LFXTAL_N Pin=Y1-1
+Added Pin To Net: NetName=LFXTAL_P Pin=Y1-2
+Added Member To Class: ClassName=Power Member=Component D1 LED0
+Added Member To Class: ClassName=Power Member=Component D2 LED0
+Added Member To Class: ClassName=MCU Member=Component HF_XTAL1 Crystal_OSC
+Added Member To Class: ClassName=Power Member=Component U7 JST_Conn
+Added Member To Class: ClassName=Power Member=Component U8 JST_Conn
+Added Member To Class: ClassName=Power Member=Component U9 JST_Conn
+Added Member To Class: ClassName=Power Member=Component X1 MicroB
+Added Member To Class: ClassName=MCU Member=Component Y1 XTAL
+Added Room: Name=Power

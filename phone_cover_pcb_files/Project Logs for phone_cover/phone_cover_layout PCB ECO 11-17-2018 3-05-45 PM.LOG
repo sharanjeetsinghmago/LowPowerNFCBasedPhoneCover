@@ -1,0 +1,12 @@
+Added Component: Designator=X1(629105150921)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://cdn.amphenol-icc.com/media/wysiwyg/files/documentation/datasheet/inputoutput/io_usb_micro.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Amphenol FCI"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ManufacturerPartNo"; Value = "10103594-0001LF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SupplierLink1URL"; Value = "https://www.digikey.com/product-detail/en/amphenol-fci/10103594-0001LF/609-4050-1-ND/2350357"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SupplierPartNo"; Value = "609-4050-1-ND"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VIN_USB Pin=X1-1
+Added Pin To Net: NetName=GND Pin=X1-5
+Added Member To Class: ClassName=Power Member=Component X1 MicroB

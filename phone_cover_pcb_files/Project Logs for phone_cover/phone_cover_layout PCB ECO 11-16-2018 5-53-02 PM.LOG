@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=SCL Pin=U6-1
+Removed Pin From Net: NetName=SDA Pin=U6-2
+Removed Pin From Net: NetName=FD Pin=U6-4
+Removed Pin From Net: NetName=VOUT_NFC Pin=U6-5
+Added Pin To Net: NetName=VOUT_NFC Pin=U6-1
+Added Pin To Net: NetName=FD Pin=U6-2
+Added Pin To Net: NetName=SCL Pin=U6-4
+Added Pin To Net: NetName=SDA Pin=U6-5
+Added Room: Name=MCU
+Added Room: Name=Peripherals
+Added Room: Name=Power

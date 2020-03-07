@@ -1,0 +1,26 @@
+Change Component Footprint: Designator=LBUCK Old Footprint=0603 New Footprint=IND_10uH
+Change Component Footprint: Designator=L1 Old Footprint=0603 New Footprint=IND_22uH
+Change Component Designator: OldDesignator=LBUCK NewDesignator=L2
+Change component parameters: Designator = "L2"; Footprint = "IND_10uH"; UniqueID = "\AVRKSOQK"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Code_IEC"; Value = "1005"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Code_JEITA"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "29-May-2009"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "IPC-7351 Footprint Added."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = "Chip Inductor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "0402-A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10uH"; VariantName = "[No Variations]"
+Added Component: Designator=U7(JST)
+Add component. Clean all parameters for all variants
+Added Component: Designator=U9(JST)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=VOUT Pin=U7-1
+Added Pin To Net: NetName=IOVDD_0 Pin=U7-2
+Added Pin To Net: NetName=VBAT Pin=U9-1
+Added Pin To Net: NetName=NetU8_1 Pin=U9-2
+Change Net Name : Old Net Name=NetLBUCK_2 New Net Name=NetL2_2
+Added Member To Class: ClassName=Power Member=Component U7 JST_Conn
+Added Member To Class: ClassName=Power Member=Component U9 JST_Conn
+Added Room: Name=Power

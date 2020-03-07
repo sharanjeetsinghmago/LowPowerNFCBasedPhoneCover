@@ -1,0 +1,13 @@
+Added Component: Designator=U8(JST_S2B-XH-A(LF)(SN))
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "JST Sales"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "S2B-XH-A_LF__SN_"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "FakePackage u"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/S2B-XH-A%28LF%29%28SN%29/JST%20Sales%20America%20Inc./view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetU8_1 Pin=U8-1
+Added Pin To Net: NetName=GND Pin=U8-2
+Added Member To Class: ClassName=Power Member=Component U8 S2B-XH-A(LF)(SN)
+Added Room: Name=Power
